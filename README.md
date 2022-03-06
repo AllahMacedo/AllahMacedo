@@ -53,8 +53,8 @@
 </h2>
 <br>
 <p align = "center">
-  <img height="180em" width="50%" src = "https://github-readme-stats.vercel.app/api?username=AllahMacedo&layout=compact&show_icons=true&theme=radical&bg_color=1C1C1C&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&&locale=pt-br&border_radius=20&hide_border=true" align="center">
-  <img height="180em" width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AllahMacedo&layout=compact&show_icons=truelayout=compact&bg_color=1C1C1C&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&locale=pt-br&border_radius=20&hide_border=true" align="center">
+  <img height="180em" width="48%" src = "https://github-readme-stats.vercel.app/api?username=AllahMacedo&layout=compact&show_icons=true&theme=radical&bg_color=1C1C1C&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&&locale=pt-br&border_radius=20&hide_border=true" align="center">
+  <img height="180em" width="48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AllahMacedo&layout=compact&show_icons=truelayout=compact&bg_color=1C1C1C&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&locale=pt-br&border_radius=20&hide_border=true" align="center">
 </p>
 
 
