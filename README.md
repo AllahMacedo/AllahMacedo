@@ -1,6 +1,6 @@
 
  <!-- image hero -->
-<img src="https://github.com/ritik307/ritik307/blob/main/images/header_.png" />
+<img src="https://github.com/AllahMacedo/AllahMacedo/blob/main/image/header_.png" />
 
  <!-- tags -->
 <p align="center">
