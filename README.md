@@ -38,7 +38,7 @@
 </p>
 
 <!-- reach me out on --> 
-<h2 align="center">Reach me out on  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h2>
+<h2 align="center">Reach me out on 👨🏻‍💻</h2>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-AllahMacedo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
  <a href="mailto: allah.coder@gmail.com">
