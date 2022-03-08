@@ -1,18 +1,23 @@
 
  <!-- image hero -->
-<img src="https://github.com/AllahMacedo/AllahMacedo/blob/main/image/header_.png" />
+ <img src="https://github.com/AllahMacedo/AllahMacedo/blob/main/image/header_.png" />
 
  <!-- tags -->
-<p align="center">
- <img src="https://badges.pufler.dev/visits/AllahMacedo/AllahMacedo"/> 
- <img src="https://badges.pufler.dev/repos/AllahMacedo"/>
- <img src="https://badges.pufler.dev/commits/monthly/AllahMacedo" />
-</p>
-
+ <p align="center">
+  <img src="https://badges.pufler.dev/visits/AllahMacedo/AllahMacedo"/> 
+  <img src="https://badges.pufler.dev/repos/AllahMacedo"/>
+  <img src="https://badges.pufler.dev/commits/monthly/AllahMacedo" />
+ </p>
+ 
  <!-- about -->
-<p align="center">
- Olá, Eu sou Allah Macedo um aprendiz apaixonado que está sempre disposto a aprender e trabalhar em tecnologias e explorar novas tecnologias e aproveitá-las para resolver problemas da  vida real ✨. web developer life. 👨🏻‍💻  
-</p>   
+ <h1 align="center">
+   Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> , I'm Allah Macedo
+ </h1>
+ <p align="center">
+  <h3> Front-end developer </h3>
+  A passionate learner who is always willing to  learn and work on technologies and explore new technologies and leverage them to solve real life problems
+ ✨. web developer life. 👨🏻‍💻  
+ </p>   
 
  <!-- Technology Stack & My Contribution Graph -->
 <h2 align="center">Technology Stack & My Contribution Graph 🛠 &nbsp;</h2>
