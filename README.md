@@ -5,7 +5,7 @@
  <!-- tags -->
  <p align="center">
   <img src="https://badges.pufler.dev/visits/allahmacedo/AllahMacedo"/> 
-  <img src="https://badges.pufler.dev/repos/allahaacedo"/>
+  <img src="https://badges.pufler.dev/repos/allahmacedo"/>
   <img src="https://badges.pufler.dev/commits/monthly/allahmacedo" />
  </p>
  
