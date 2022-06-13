@@ -11,7 +11,7 @@
  
  <!-- about -->
  <h1 align="center">
-   Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> , I'm Allah Macedo
+   Hi there I'm Allah Macedo
  </h1>
  <p align="center">
   <h3> Front-end developer </h3>
