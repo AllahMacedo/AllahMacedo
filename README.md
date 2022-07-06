@@ -1,13 +1,6 @@
 
  <!-- image hero -->
  <img src="https://github.com/AllahMacedo/AllahMacedo/blob/main/image/header_.png" />
-
- <!-- tags -->
- <p align="center">
-  <img src="https://badges.pufler.dev/visits/allahmacedo/AllahMacedo"/> 
-  <img src="https://badges.pufler.dev/repos/allahmacedo"/>
-  <img src="https://badges.pufler.dev/commits/monthly/allahmacedo" />
- </p>
  
  <!-- about -->
  <h1 align="center">
